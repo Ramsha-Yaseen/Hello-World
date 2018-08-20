@@ -1,0 +1,23 @@
+int main(void)
+{
+   
+
+ short unsigned int cool=0;
+ 
+
+ int i=0;
+
+  
+
+ cool=5+printf("%d %d",i, i++,i++);
+    
+   
+
+ printf(" displaying a num: %d", cool);
+
+    
+
+   return 0;
+
+
+}
